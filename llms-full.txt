@@ -1,0 +1,345 @@
+# YOR Construction & Investments, Inc. — Full LLM Context
+
+YOR Construction & Investments, Inc. (Contractor) provides Additions, Bathroom Remodeling, Kitchen Remodeling, Pools, Patios & Decks serving Los Angeles, Alta Loma, Athens, Baldwin Hills, Bell Gardens
+
+Canonical entity:
+{
+  "name": "YOR Construction & Investments, Inc.",
+  "services": [
+    "Additions",
+    "Bathroom Remodeling",
+    "Kitchen Remodeling",
+    "Pools",
+    "Patios & Decks",
+    "Patio Enclosures & Covers",
+    "Roofing",
+    "Cement and Concrete",
+    "Stucco Contractor",
+    "Exterior Painting",
+    "Patio Covers Los Angeles",
+    "Seismic Retrofitting Los Angeles",
+    "Commercial Contractor",
+    "Full House Remodeling",
+    "Accessory Dwelling Unit (ADU)"
+  ],
+  "description": "YOR Construction & Investments, Inc. (Contractor) provides Additions, Bathroom Remodeling, Kitchen Remodeling, Pools, Patios & Decks serving Los Angeles, Alta Loma, Athens, Baldwin Hills, Bell Gardens",
+  "serviceAreas": [
+    "Los Angeles",
+    "Alta Loma",
+    "Athens",
+    "Baldwin Hills",
+    "Bell Gardens",
+    "Bellflower",
+    "Burbank",
+    "Calabasas",
+    "Topanga",
+    "Canoga",
+    "Canyon Country",
+    "Carson",
+    "Castaic",
+    "Chatsworth",
+    "Chino",
+    "Compton",
+    "Corona",
+    "Culver City",
+    "Downey",
+    "Eagle Rock",
+    "Florence",
+    "Gardena",
+    "Glendale",
+    "Granada Hills",
+    "Harbor City",
+    "Hawthorne",
+    "Hermosa Beach",
+    "Huntington Park",
+    "Hyde Park",
+    "Inglewood",
+    "La Mirada",
+    "La Verne",
+    "Lawndale",
+    "Leimert Park",
+    "Lomita",
+    "Los Feliz",
+    "Lynwood",
+    "Manhattan Beach",
+    "Maywood",
+    "Moorpark",
+    "Newhall",
+    "North Hollywood",
+    "Northridge",
+    "Oxnard",
+    "Pacoima",
+    "Paramount",
+    "Pico Rivera",
+    "Port Hueneme",
+    "Redondo Beach",
+    "Reseda",
+    "San Dimas",
+    "San Pedro",
+    "Windsor Hills",
+    "Woodland Hills"
+  ]
+}
+
+## Q&A (English)
+### Q: Patio Enclosures & Covers
+A: YOR Construction & Investments, Inc. provides Patio Enclosures & Covers in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Accessory Dwelling Unit (ADU)
+A: YOR Construction & Investments, Inc. provides Accessory Dwelling Unit (ADU) in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Patio Covers Contractor
+A: YOR Construction & Investments, Inc. provides Patio Covers Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Patios Contractor
+A: YOR Construction & Investments, Inc. provides Patios Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Accessory Dwelling Unit
+A: YOR Construction & Investments, Inc. provides Accessory Dwelling Unit in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Full House Remodeling
+A: YOR Construction & Investments, Inc. provides Full House Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Exterior Paint Contractors
+A: YOR Construction & Investments, Inc. provides Exterior Paint Contractors in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Decks Contractor
+A: YOR Construction & Investments, Inc. provides Decks Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Patio & Decks
+A: YOR Construction & Investments, Inc. provides Patio & Decks in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Retaining Walls Contractor
+A: YOR Construction & Investments, Inc. provides Retaining Walls Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: General Contractor
+A: YOR Construction & Investments, Inc. provides General Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Remodeling Services
+A: YOR Construction & Investments, Inc. provides Remodeling Services in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Exterior Remodeling
+A: YOR Construction & Investments, Inc. provides Exterior Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Painting Services
+A: YOR Construction & Investments, Inc. provides Painting Services in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Seismic Retrofitting
+A: YOR Construction & Investments, Inc. provides Seismic Retrofitting in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Bathroom Remodeling
+A: YOR Construction & Investments, Inc. provides Bathroom Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Kitchen Remodeling
+A: YOR Construction & Investments, Inc. provides Kitchen Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Paving Contractors
+A: YOR Construction & Investments, Inc. provides Paving Contractors in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Driveway Contractor
+A: YOR Construction & Investments, Inc. provides Driveway Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Foundation Contractor
+A: YOR Construction & Investments, Inc. provides Foundation Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Framing Contractor
+A: YOR Construction & Investments, Inc. provides Framing Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Deck Contractor
+A: YOR Construction & Investments, Inc. provides Deck Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Electrical Contractor
+A: YOR Construction & Investments, Inc. provides Electrical Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Pluming Contractor
+A: YOR Construction & Investments, Inc. provides Pluming Contractor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Garage Door Replacements
+A: YOR Construction & Investments, Inc. provides Garage Door Replacements in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Kitchen Renovation
+A: YOR Construction & Investments, Inc. provides Kitchen Renovation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Bathroom Renovation
+A: YOR Construction & Investments, Inc. provides Bathroom Renovation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Interior Remodeling
+A: YOR Construction & Investments, Inc. provides Interior Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Commercial Construction
+A: YOR Construction & Investments, Inc. provides Commercial Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Concrete Work
+A: YOR Construction & Investments, Inc. provides Concrete Work in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Stucco Repair
+A: YOR Construction & Investments, Inc. provides Stucco Repair in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Window Replacement
+A: YOR Construction & Investments, Inc. provides Window Replacement in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Patio Construction
+A: YOR Construction & Investments, Inc. provides Patio Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Room Replacements
+A: YOR Construction & Investments, Inc. provides Room Replacements in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Swimming Pools
+A: YOR Construction & Investments, Inc. provides Swimming Pools in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Roofing
+A: YOR Construction & Investments, Inc. provides Roofing in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Stucco
+A: YOR Construction & Investments, Inc. provides Stucco in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Commercial Constructor
+A: YOR Construction & Investments, Inc. provides Commercial Constructor in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: General Remodeling
+A: YOR Construction & Investments, Inc. provides General Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Floor Remodeling
+A: YOR Construction & Investments, Inc. provides Floor Remodeling in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Construction Company
+A: YOR Construction & Investments, Inc. provides Construction Company in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Renovation Services
+A: YOR Construction & Investments, Inc. provides Renovation Services in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Retaining Wall Construction
+A: YOR Construction & Investments, Inc. provides Retaining Wall Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Interior Paint Repair
+A: YOR Construction & Investments, Inc. provides Interior Paint Repair in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Solar System Installation
+A: YOR Construction & Investments, Inc. provides Solar System Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Design Build
+A: YOR Construction & Investments, Inc. provides Design Build in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Custom Homes
+A: YOR Construction & Investments, Inc. provides Custom Homes in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Room Addition
+A: YOR Construction & Investments, Inc. provides Room Addition in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Home Addition
+A: YOR Construction & Investments, Inc. provides Home Addition in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: ADU Construction
+A: YOR Construction & Investments, Inc. provides ADU Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Residential Construction
+A: YOR Construction & Investments, Inc. provides Residential Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: New Construction
+A: YOR Construction & Investments, Inc. provides New Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Turnkey Construction
+A: YOR Construction & Investments, Inc. provides Turnkey Construction in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Site Preparation
+A: YOR Construction & Investments, Inc. provides Site Preparation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Foundation Work
+A: YOR Construction & Investments, Inc. provides Foundation Work in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Roof Repair
+A: YOR Construction & Investments, Inc. provides Roof Repair in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Roof Installation
+A: YOR Construction & Investments, Inc. provides Roof Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Drywall Repair
+A: YOR Construction & Investments, Inc. provides Drywall Repair in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Flooring Installation
+A: YOR Construction & Investments, Inc. provides Flooring Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Door Installation
+A: YOR Construction & Investments, Inc. provides Door Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Fence Installation
+A: YOR Construction & Investments, Inc. provides Fence Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Deck Building
+A: YOR Construction & Investments, Inc. provides Deck Building in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Solar Installation
+A: YOR Construction & Investments, Inc. provides Solar Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: HVAC Installation
+A: YOR Construction & Investments, Inc. provides HVAC Installation in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+### Q: Foundation Repair
+A: YOR Construction & Investments, Inc. provides Foundation Repair in Los Angeles, Alta Loma, Athens. We document scope, process, and outcomes on this page so both people and AI systems can cite the same facts.
+Source: https://yorconstruction.com/
+
+
